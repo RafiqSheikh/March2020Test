@@ -36,8 +36,6 @@ namespace Sonovate.CodeTest
 
             try
             {
-                var status = bool.Parse(Application.Settings["EnableAgencyPayments"]);
-
                 if (bacsExportType == BacsExportType.Agency &&
                    !bool.Parse(Application.Settings["EnableAgencyPayments"]))
                 {

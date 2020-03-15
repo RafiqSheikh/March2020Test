@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Sonovate Test/Sonovate.CodeTest/obj
+/Sonovate Test/Sonovate.CodeTest.UnitTests/obj
+/Sonovate Test/.vs/Sonovate.CodeTest/v16
+/.vs
+/Sonovate Test/Sonovate.CodeTest/bin/Debug/netcoreapp3.0
+/Sonovate Test/Sonovate.CodeTest.UnitTests/bin/Debug/netcoreapp3.1
